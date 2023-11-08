@@ -1,0 +1,5 @@
+﻿  p23.cpp
+C:\Users\e4872\桌面\20231105\p23\p23.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\e4872\桌面\20231105\p23\p23.cpp(33,29): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\e4872\桌面\20231105\p23\p23.cpp(33,29): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  p23.vcxproj -> C:\Users\e4872\桌面\20231105\p23\x64\Debug\p23.exe
